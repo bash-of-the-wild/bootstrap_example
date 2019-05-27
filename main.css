@@ -1,0 +1,9 @@
+.highlight {
+  height: 50px;
+  background-color: lightblue;
+  border: 2px solid black;
+}
+
+body {
+  background-image: url('paper_fibers.png');
+}
